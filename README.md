@@ -1,1 +1,1 @@
-# CrimePrediction-using-Supervised-Machine-Learning
+# CrimePrediction-using-Supervised-Learning
